@@ -33,7 +33,7 @@
     "karma-ng-scenario": "~0.1",
     "grunt": "~0.4.2",
     "grunt-node-webkit-builder": "~1.0",
-    "nw": "~0.12",
+    "nw": "~0.50.1",
     "grunt-cli": "~0.1.11",
     "jasmine-core": "~2.2.0",
     "karma-jasmine": "~0.3.5",
